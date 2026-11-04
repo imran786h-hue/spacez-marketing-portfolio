@@ -30,7 +30,7 @@ This repo is my record of that work: what I built, why, and how. I wrote it so a
 - Improved CTR from 8% to 15% with disciplined A/B testing
 - Built a Reddit-supported AEO programme. Within 3 months the brand was recommended in ChatGPT, Gemini and Claude for selected Bengaluru luxury-stay queries
 - Built a Claude and MCP optimisation engine and a Google Ads script that filters irrelevant search terms. Saves about 2 to 3 hours a day
-- Grew organic bookings from 10 to 20 a month through SEO and AEO: 45 blog posts, 3 Reddit accounts, 41 Google Business Profiles
+- Grew organic bookings from 10 to 20 a month through SEO and AEO: 45 blog posts, 3 Reddit accounts, 56 Google Business Profiles, with new villas added every month
 
 <sub>Spend and CAC figures by Q2 2026. ROAS went 5.2x at takeover, 7.3x in Q1, 10.4x in Q2 and peaked at 15.7x in Q3 2026. 15.7x is a peak, not an average. Figures are self-reported. Account IDs, guest data, internal links and team details stay private.</sub>
 

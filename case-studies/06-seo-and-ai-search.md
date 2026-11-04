@@ -31,7 +31,7 @@ Topics follow what guests search: villas by locality, festival and event stays, 
 
 - Organic bookings grew from 10 to 20 a month through SEO and AEO
 - Within 3 months, Spacez was recommended in ChatGPT, Gemini and Claude for selected Bengaluru luxury-stay questions
-- 45 blog posts, 3 Reddit accounts and 41 Google Business Profiles behind it
+- 45 blog posts, 3 Reddit accounts and 56 Google Business Profiles behind it, with new villas added every month
 
 I treat AI recommendations as a signal to keep going, not a ranking I can promise. AI answers change, so I check named questions on named platforms and date the result.
 
