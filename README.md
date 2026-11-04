@@ -1,5 +1,7 @@
 <div align="center">
 
+<a href="https://www.spacez.co"><img src="assets/spacez-logo.png" alt="Spacez logo" width="110"></a>
+
 <img src="assets/banner.svg" alt="Marketing at Spacez.co, Mohammad Imran Hossen, Marketing Manager" width="100%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammad--imranhossen-7A3D2E?style=flat-square)](https://linkedin.com/in/mohammad-imranhossen)
