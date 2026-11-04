@@ -35,6 +35,16 @@ Two things stood out in the first audit:
 
 **6. Wrote copy guests recognise.** Headlines follow the 30-character limit with dynamic keyword insertion where it helps. Copy leads with what people search for: private pools, 4 and 5 BHK group stays, central locations, and the live offer code.
 
+## Result
+
+- ₹8.6 lakh (44%) of inefficient spend removed in Q1 2026
+- Monthly spend down 61%, from ₹9.9 lakh to ₹3.8 lakh, by Q2 2026
+- ROAS from 5.2x at takeover to 7.3x in Q1, 10.4x in Q2 and a 15.7x peak in Q3 2026
+- CAC down 48%, CTR from 8% to 15%
+- Direct booking revenue up 30% across 12 Google Ads campaigns
+
+<sub>Self-reported. 15.7x is a peak, not an average.</sub>
+
 ## What I'd tell the next person
 
 - Audit the conversion goals before you judge any campaign. If bidding chases the wrong action, nothing else you change will show up properly.

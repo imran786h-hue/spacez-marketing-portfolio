@@ -29,7 +29,11 @@ Topics follow what guests search: villas by locality, festival and event stays, 
 
 ## Where it got to
 
-Spacez has started to appear in ChatGPT villa recommendations for selected Bengaluru luxury-stay questions. I treat that as a signal to keep going, not a ranking I can promise: AI answers change, so I check named questions on named platforms and date the result.
+- Organic bookings grew from 10 to 20 a month through SEO and AEO
+- Within 3 months, Spacez was recommended in ChatGPT, Gemini and Claude for selected Bengaluru luxury-stay questions
+- 45 blog posts, 3 Reddit accounts and 41 Google Business Profiles behind it
+
+I treat AI recommendations as a signal to keep going, not a ranking I can promise. AI answers change, so I check named questions on named platforms and date the result.
 
 ## What I'd tell the next person
 

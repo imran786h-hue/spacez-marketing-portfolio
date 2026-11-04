@@ -16,7 +16,23 @@ I run marketing end to end. That means the ad accounts, the tracking behind them
 
 This repo is my record of that work: what I built, why, and how. I wrote it so a hiring manager can see how I think and work.
 
-> **What's not here.** No spend, revenue, ROAS, booking counts, account IDs, guest data, internal links or team details. That data belongs to Spacez. I'm happy to walk through results in an interview.
+---
+
+## Results at a glance
+
+| 61% | 5.2x to 15.7x | 48% | 8% to 15% |
+|:---:|:---:|:---:|:---:|
+| Google Ads spend cut<br>₹9.9L to ₹3.8L a month | ROAS from takeover<br>to Q3 2026 peak | CAC reduction | CTR lift from<br>A/B testing |
+
+- Rebuilt an under-performing Google Ads account. Removed ₹8.6 lakh (44%) of inefficient spend in Q1 2026
+- Cut monthly Google Ads spend 61%, from ₹9.9 lakh to ₹3.8 lakh, while ROAS rose from 5.2x to 10.4x by Q2
+- Lifted direct booking revenue 30% through 12 Google Ads campaigns, reducing dependence on OTAs
+- Improved CTR from 8% to 15% with disciplined A/B testing
+- Built a Reddit-supported AEO programme. Within 3 months the brand was recommended in ChatGPT, Gemini and Claude for selected Bengaluru luxury-stay queries
+- Built a Claude and MCP optimisation engine and a Google Ads script that filters irrelevant search terms. Saves about 2 to 3 hours a day
+- Grew organic bookings from 10 to 20 a month through SEO and AEO: 45 blog posts, 3 Reddit accounts, 41 Google Business Profiles
+
+<sub>Spend and CAC figures by Q2 2026. ROAS went 5.2x at takeover, 7.3x in Q1, 10.4x in Q2 and peaked at 15.7x in Q3 2026. 15.7x is a peak, not an average. Figures are self-reported. Account IDs, guest data, internal links and team details stay private.</sub>
 
 ---
 
