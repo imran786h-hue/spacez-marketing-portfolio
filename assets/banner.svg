@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <rect width="1280" height="320" fill="#F5EBD7"/>
+  <rect x="0" y="0" width="12" height="320" fill="#7A3D2E"/>
+  <g fill="none" stroke="#7A3D2E" stroke-width="2" opacity="0.18">
+    <path d="M1010 250 L1110 160 L1210 250 Z"/>
+    <path d="M1035 250 L1035 300 L1185 300 L1185 250"/>
+    <path d="M940 300 L1010 236 L1080 300"/>
+  </g>
+  <text x="72" y="118" font-family="Helvetica, Arial, sans-serif" font-size="22" letter-spacing="4" fill="#7A3D2E">MARKETING PORTFOLIO  ·  DEC 2025 TO PRESENT</text>
+  <text x="72" y="182" font-family="Georgia, 'Times New Roman', serif" font-size="56" fill="#2B1A14">Marketing at Spacez.co</text>
+  <text x="72" y="232" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#4A3A33">Mohammad Imran Hossen  ·  Marketing Manager  ·  Bengaluru</text>
+  <text x="72" y="276" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#7A3D2E">Paid media  ·  Tracking  ·  Local search  ·  SEO and AI search  ·  Reporting</text>
+</svg>
