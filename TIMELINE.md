@@ -55,3 +55,4 @@ Month by month, Dec 2025 to Nov 2026. Work only, no performance figures.
 - Lead form updated to cover offsites and offices in one form
 - Google Business Profile website link audit across 56 profiles, 21 corrected
 - Monthly offline conversion upload of last month's bookings
+- Listed Spacez on Sortlist and Clutch (free plans) as a corporate offsite and events provider

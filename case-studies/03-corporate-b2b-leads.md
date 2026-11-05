@@ -28,6 +28,8 @@ The sales team works the sheet with a simple status column: New, Contacted, Not 
 
 I left the ad group paused for a final review before launch.
 
+**4. Listings on B2B directories (Nov 2026).** Companies planning an offsite don't only search Google. Some browse vendor directories. I listed Spacez on Sortlist and Clutch, both on free plans. Each profile pitches the villas for offsites, events and corporate stays, and uses only facts from the website. Sortlist went live the same day. Clutch reviews new profiles before they're published. Social links on both sites sit behind paid plans, so I left them off rather than pay.
+
 ## What I'd tell the next person
 
 - B2B leads need a fast, boring handoff. Automating the sheet mattered more than any ad copy change.
