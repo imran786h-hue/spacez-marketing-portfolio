@@ -35,6 +35,8 @@ Two things stood out in the first audit:
 
 **6. Wrote copy guests recognise.** Headlines follow the 30-character limit with dynamic keyword insertion where it helps. Copy leads with what people search for: private pools, 4 and 5 BHK group stays, central locations, and the live offer code.
 
+**7. Ran seasons without rebuilding the account.** For New Year 2027 I rebuilt an old event campaign into one ad group each for Bengaluru, Mumbai and Hyderabad. Keyword Planner showed villa-specific New Year searches were tiny, so keywords centre on people looking for a party with a stay, not club tickets. The copy speaks to the real 31st night problems: queues, cover charges and the drive home at 2 AM. Before writing, I checked every villa page, which showed Hyderabad has no pool villas, so those ads never promise one. In the live campaigns, festive lines were swapped for New Year ones in place, keeping pins and live offer lines, and a sitelink opens each city's listing already set to 31 Dec. The rule I follow: change the lines that underperform, keep the ones that convert, and never claim an amenity the landing page doesn't show.
+
 ## Result
 
 - ₹8.6 lakh (44%) of inefficient spend removed in Q1 2026
