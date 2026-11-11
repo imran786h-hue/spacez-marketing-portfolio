@@ -57,3 +57,4 @@ Month by month, Dec 2025 to Nov 2026. Work only, no performance figures.
 - Monthly offline conversion upload of last month's bookings
 - Listed Spacez on Sortlist and Clutch (free plans) as a corporate offsite and events provider
 - New villa launch in ads: sitelinks for two new Bengaluru villas, and their real photos swapped in for the lowest performing images in PMax and search
+- New Year 2027 search campaign rebuilt for Bengaluru, Mumbai and Hyderabad: one ad group per city with Keyword Planner backed "party with stay" and villa terms, new ad copy built on real 31st night pain points (club queues, cover charges, the 2 AM drive home), city sitelinks and real villa photos, an unverified discount code and fake urgency removed, tracking and end date fixed, and event, ticket and club searches blocked with negatives
