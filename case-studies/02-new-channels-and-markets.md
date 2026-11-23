@@ -16,6 +16,8 @@ I put together a market research deck on Hyderabad before spending anything: loc
 
 Spacez has a booking app. I set up an App campaign to drive installs and made the creatives for it, including a short install video in August 2026.
 
+In November 2026 I added iPhone. Google ties each app campaign to one store, so iOS needed its own campaigns, not an extra ad group in the Android one. First I fixed the tracking: linked the App Store listing in Firebase and brought iOS first opens and in-app bookings into Google Ads. The data showed iPhone users book far more often per install than Android users, so I built two iOS campaigns: one for installs, one that bids on in-app bookings. The install campaign has two ad groups. One speaks to past guests ("Stayed with us? Get the app"), using existing customer lists as the signal. The other goes after people who use Airbnb, Booking.com and similar apps, with copy about booking a whole villa instead of a room. The copy only uses claims that appear on the website.
+
 ### YouTube video ads
 
 I run YouTube campaigns for Bengaluru and Mumbai to build reach at a low cost per view. I wrote the scripts myself: a 10-second YouTube ad and reel scripts for seven villas, each built around one thing a guest would remember about that villa.
