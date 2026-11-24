@@ -20,4 +20,4 @@ Themes I keep in shared lists. Add the exact terms you see in your own search te
 - Campaign-level shared lists for themes that are always wrong.
 - Ad-group negatives for routing, so the right ad group gets the search.
 - A short "do not pause" list for terms that look weak early but bring bookings later.
-- Weekly review of the search terms report, helped by a script that flags likely junk.
+- Weekly review of the search terms report, helped by a daily script that blocks clear junk, sends doubtful terms for review and checks every block is live (see code/negative-keyword-automator).
